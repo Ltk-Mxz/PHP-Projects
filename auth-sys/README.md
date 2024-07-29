@@ -121,10 +121,6 @@ This project is a secure user authentication system built using PHP, MySQL, and 
 
 Contributions are welcome! Please fork this repository and submit pull requests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [PHP Documentation](https://www.php.net/docs.php)
