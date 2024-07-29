@@ -2,6 +2,8 @@
 
 This project is a simple task management application built with PHP and MySQL, showcasing secure and robust CRUD operations.
 
+Demo here -> https://youtu.be/eJf2uju5Xqk
+
 ## Features
 
 - **Create, Read, Update, Delete (CRUD)** operations for tasks.
@@ -14,7 +16,7 @@ This project is a simple task management application built with PHP and MySQL, s
 
 1. Clone the repository:
     ```bash
-    git clone 
+    git clone https://github.com/Ltk-Mxz/PHP-Projects/tree/main/todos
     ```
 
 2. Navigate to the project directory:
