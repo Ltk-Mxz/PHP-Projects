@@ -1,6 +1,5 @@
 ### Updated README.md
 
-```markdown
 # Secure User Authentication System
 
 This project is a secure user authentication system built using PHP, MySQL, and styled with Tailwind CSS. The system focuses on implementing robust security measures such as CSRF protection, password hashing, and session management.
